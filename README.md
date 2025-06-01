@@ -17,9 +17,6 @@ This project is licensed under the [MIT license](LICENSE.txt).
 ## Donate
 If you find this project helpful, consider buying me a cup of coffee.
 
-## Donate
-If you find this project helpful, consider buying me a cup of coffee.
-
 [![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=gordon_matt%40live%2ecom&lc=AU&currency_code=AUD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
 
 | Crypto         | Wallet Address |
